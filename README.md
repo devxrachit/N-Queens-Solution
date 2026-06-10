@@ -52,14 +52,4 @@ Q . . .
  
 ```
 
-## A few numbers, if you're curious
-
-| N | Solutions |
-|---|-----------|
-| 1 | 1 |
-| 4 | 2 |
-| 5 | 10 |
-| 6 | 4 |
-| 8 | 92 |
-
 Fun fact: N = 2 and N = 3 have zero solutions. 
